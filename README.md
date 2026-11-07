@@ -1,6 +1,6 @@
-![Cabecera](../../../../../Sprint_15/assets/cabecera_mlops.png)
+![Cabecera](./assets/cabecera_thebridge.png)
 
-# Workout:API segura (CRUD) + Docker
+# Workout — API segura (CRUD) + Docker
 
 **La API ya está dada:** CRUD de ítems en memoria + API key, rate limit y CORS. Aquí el foco es **empaquetarla en un contenedor** y probarla en local. Posteriormente se puede subir a la nube.
 
