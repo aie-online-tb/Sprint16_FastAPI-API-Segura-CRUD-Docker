@@ -27,7 +27,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 app = FastAPI(
-    title="API segura — CRUD",
+    title="API segura — CRUD - Render",
     description=(
         "CRUD de ítems con api_key por query, rate limit y CORS. "
         "En /docs: Try it out → parámetro api_key."
